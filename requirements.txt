@@ -1,0 +1,5 @@
+streamlit
+textblob
+openai
+transformers
+torch
